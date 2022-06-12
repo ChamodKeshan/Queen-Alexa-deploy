@@ -1,14 +1,7 @@
 ##  ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁ (BUTTON)
 
 
-<div align="center">
- <a href="https://github.com/ChamodKeshan/Queen-Alexa">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...;Created+by+ChamodKeshan...;Owner+by+En-cuzier...;Frist+aleXa+system+whatsapp+bot...;Alexa+is+super+speed...;Thank+You+For+Visiting+us"
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+
 
     Queen alexa is the whatsapp bot project.
     it can help us to any work in some command.
@@ -29,7 +22,89 @@
 
 
 ![logo](https://telegra.ph/file/d1eb8fabf9e772e419f1c.jpg)
+ 
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Queen+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 
+</a>
+<p align="center">
+    👸Queen Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Queen-Alexa යනු ලංකාවෙ පළවෙනි සිංහල සහ button whatsapp රොබෝව වේ..🇱🇰
+    <br>
+
+## Thanks for Everything 
+### We will always remember you..
+
+- [Chamod](https://github.com/ChamodKeshan)
+- [Teenux](https://github.com/xneon2)
+- [Chamodya](https://github.com/En-cuzier)
+<p align="center">
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa/fork">
+    <img src="https://img.shields.io/github/forks/ChamodKeshan/Queen-Alexa?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa/stargazers">
+    <img src="https://img.shields.io/github/stars/ChamodKeshan/Queen-Alexa?style=social">
+  </a>
+ 
+</p>
+
+
+<a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
+   <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
+   </a>    
+        
+  <p align="center">
+<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+</p>
+   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa">
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
+  
+  </a>
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa">
+    <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
+    
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChamodKeshan%2FQueen-Alexa&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  
+    
+  </a>
+</p>
+
+<p align="center">
+  <a href="httsp://github.com/ChamodKeshan/Queen-Alexa">
+    <img src="https://img.shields.io/github/repo-size/ChamodKeshan/Queen-Alexa?color=purple&label=Repo%20size&style=plastic">
+
+  </a>
+  <a href="https://github.com/ChamodKeshan/Queen-Alexa/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/ChamodKeshan/Queen-Alexa?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
+    <img src="https://img.shields.io/github/languages/top/ChamodKeshan/Queen-Alexa?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="https://github.com/ChamodKeshan">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Alexa%20X&color=purple&style=plastic">
+
+  </a>
+  <a href="https://wa.me/94786825798">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Chamod%20X%20-purple&style=plastic">
+
+  </a>
+</p>
+
+### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
+````
+පලමුව replit ඔබා ඔබගේ whatsapp web හි scan කර ගන්න.
+දෙවනුව heroku එක මගින් ඔබගේ බොට් install කර ගන්න.
 
 
 
