@@ -30,7 +30,17 @@
 <p align="center">
     👸Queen Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Queen-Alexa යනු ලංකාවෙ පළවෙනි සිංහල සහ button whatsapp රොබෝව වේ..🇱🇰
     <br>
-
+    <a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
+   <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
+    <a href="https://Wa.me/+94770828171">EN-CUZIER Whatsapp </a> |
+   </a>    
+        
+  <p align="center">
+<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+</p>
+   </a>
+</p>
+    
 ## Thanks for Everything 
 ### We will always remember you..
 
@@ -46,17 +56,6 @@
     <img src="https://img.shields.io/github/stars/ChamodKeshan/Queen-Alexa?style=social">
   </a>
  
-</p>
-
-
-<a href="https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B">Support Group</a> |
-   <a href="https://Wa.me/+94786825798">Chamod Keshan Whatsapp </a> |
-   </a>    
-        
-  <p align="center">
-<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
-</p>
-   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ChamodKeshan/Queen-Alexa">
@@ -96,7 +95,7 @@
 
   </a>
   <a href="https://wa.me/94786825798">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Chamod%20X%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Chamod%20Keshan%20-purple&style=plastic">
 
   </a>
 </p>
@@ -105,7 +104,7 @@
 ````
 පලමුව replit ඔබා ඔබගේ whatsapp web හි scan කර ගන්න.
 දෙවනුව heroku එක මගින් ඔබගේ බොට් install කර ගන්න.
-
+````
 
 
 ### 🧚‍♀️ALEXA TEAM💫
